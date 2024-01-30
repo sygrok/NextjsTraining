@@ -1,6 +1,7 @@
 import Link from "next/link";
-// when an undefined url is use, this component will be showed to user
 function NotFound() {
+  // when an undefined url is use, this component will be showed to user
+
   return (
     <div>
       <h2>Not found!</h2>
